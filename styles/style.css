@@ -9,10 +9,13 @@ html {
 }
 
 .page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
-  margin: 133px auto;
-  color: #fff;
+  margin: auto;
+  color: #ffffff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
